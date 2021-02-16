@@ -1,0 +1,36 @@
+<style>
+    body {
+        font-family: sans-serif;
+    }
+    
+    h2 {
+        color: #00a2c6
+    }
+
+    h3 {
+        color: #00a2c6
+    }
+
+    footer {
+        padding: 20px;
+        color: white;
+        background-color: #00a2c6;
+    }
+
+    /* .shadowbox{
+        width: 15em;
+        border: 1px solid #333;
+        box-shadow: 8px 8px 5px #444;
+        background-image: linear-gradient(#fff, #ddd, 40%, #ccc);
+    }
+
+    .phone {
+        font-weight: bold;
+    }
+
+    #sejarah h2{
+        color: rgb(85, 192, 211);
+    } */
+
+    
+</style>
